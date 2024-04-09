@@ -135,11 +135,6 @@ function addExpenseToTable(expense) {
     deleteCell.appendChild(deleteBtn);
 }
 
-// Update the event listener for the 'Add' button
-addBtn.addEventListener('click', function() {
-    // Function remains the same
-    // ...
-});
 
-// Note: Rest of the code remains unchanged
+
 
